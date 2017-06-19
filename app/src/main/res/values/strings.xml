@@ -1,3 +1,35 @@
 <resources>
     <string name="app_name">Witcom Events</string>
+
+    <!-- PAGER SECTIONS -->
+    <string name="streamings">Streamings</string>
+    <string name="schedule">Schedule</string>
+    <string name="activities">Activities</string>
+    <string name="people">Speakers</string>
+    <string name="how_to_arrive">How to arrive</string>
+    <string name="sketch">Sketch</string>
+    <string name="places">Places</string>
+    <string name="sponsors_and_about">Sponsors \u0026 About</string>
+    <!-- PAGER SECTIONS END -->
+
+    <!-- PAGER -->
+    <string name="transition_pager">transition_pager</string>
+    <!-- END -->
+
+    <!-- Menu -->
+    <string name="action_settings">Settings</string>
+    <!-- END -->
+
+    <!-- Navigation -->
+    <string name="navigation">Navigation</string>
+    <string name="how_get">How would you get there?</string>
+    <string name="data_usage">This option can consume data</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+    <string name="about">: ABOUT</string>
+
+    <string name="car">Car</string>
+    <string name="bicycle">Bicycle</string>
+    <string name="walking">Walking</string>
+    <!-- END -->
 </resources>
